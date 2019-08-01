@@ -1,3 +1,3 @@
 <?php
-    echo "Asalnamah ieteh rek HTML ngan poho kalahkah PHP";
+    echo "Asalnamah ieteh rek HTML ngan poho kalahkah PHP duhh";
 ?>
